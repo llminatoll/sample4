@@ -46,7 +46,7 @@ header#itempage { /* アイテムページのときはヘッダーの幅を狭�
 	padding: 4em 0 2em;
 }
 header nav {
-	background: rgba(0, 0, 0, 0.1) ;
+	background: rgba(0, 0, 0, 1) ;
 	padding: 10px 0; 
 	width: 100%;
 	position: absolute;
@@ -54,7 +54,7 @@ header nav {
 }
 header nav ul{
 	margin: auto;
-	text-align: center;
+	text-align: left;
 }
 header nav ul li{
 	display: inline-block;
